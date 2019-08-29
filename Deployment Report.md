@@ -17,3 +17,6 @@
 5. By visiting the Local runtime link , we'll get our Index / Home page
 
 ![alt text](https://github.com/GauravPadawe/Titanic-Machine-Learning-from-Disaster/blob/master/IMGS/index.jpg?raw=true)
+
+
+6. In the text box a user can input values which fall in the range of individual attribute to get results.
