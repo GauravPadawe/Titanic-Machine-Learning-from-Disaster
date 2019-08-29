@@ -11,6 +11,4 @@
 
 4. Once we've al files in place we must open console or anaconda console and set directory using the command and run the Titanic_app.py.
 
-- ![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/4280/media/Grafik.jpg)
-
-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/Xs1pBCk"><a href="//imgur.com/a/Xs1pBCk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+- ![alt text](https://imgur.com/a/Xs1pBCk)
