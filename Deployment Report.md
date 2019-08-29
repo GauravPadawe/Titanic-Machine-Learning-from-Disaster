@@ -12,3 +12,8 @@
 4. Once we've al files in place we must open console or anaconda console and set directory using the command and run the Titanic_app.py.
 
 ![alt text](https://imgur.com/a/Xs1pBCk)
+
+<p align="center">
+  <img src="https://imgur.com/a/Xs1pBCk" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
