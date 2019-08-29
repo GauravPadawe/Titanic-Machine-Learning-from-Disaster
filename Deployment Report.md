@@ -11,8 +11,4 @@
 
 4. Once we've al files in place we must open console or anaconda console and set directory using the command and run the Titanic_app.py.
 
-![alt text](https://imgur.com/a/Xs1pBCk)
-
-<p align="center">
-  <img src="https://imgur.com/a/Xs1pBCk" width="350" title="hover text">
-</p>
+![alt text](https://github.com/GauravPadawe/Titanic-Machine-Learning-from-Disaster/blob/master/IMGS/cmd.jpg?raw=true)
