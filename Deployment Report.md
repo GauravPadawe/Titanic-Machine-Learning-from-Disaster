@@ -11,4 +11,4 @@
 
 4. Once we've al files in place we must open console or anaconda console and set directory using the command and run the Titanic_app.py.
 
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![alt text](https://imgur.com/a/Xs1pBCk)
