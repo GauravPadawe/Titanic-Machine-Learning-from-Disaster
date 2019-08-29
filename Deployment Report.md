@@ -12,3 +12,8 @@
 4. Once we've al files in place we must open console or anaconda console and set directory using the command and run the Titanic_app.py.
 
 ![alt text](https://github.com/GauravPadawe/Titanic-Machine-Learning-from-Disaster/blob/master/IMGS/cmd.jpg?raw=true)
+
+
+5. By visiting the Local runtime link , we'll get our Index / Home page
+
+![alt text](https://github.com/GauravPadawe/Titanic-Machine-Learning-from-Disaster/blob/master/IMGS/index.jpg?raw=true)
